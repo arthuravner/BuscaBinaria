@@ -2,6 +2,11 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Arthur
+ * Retorna detalhes sobre o CEP informado
+ */
 public class Principal {
 
 	
